@@ -97,3 +97,4 @@ m \frac{d^2 \vec{r} }{dt^2} = \vec{T} + m\vec{g}.
 <p align="center"><img src="https://github.com/sergefriendly/orchidea/raw/main/charts_1.png" alt="Чертёж"></p>
 
 Решая на интервале $\left(0;10\right)$ получим:
+<p align="center"><img src="https://github.com/sergefriendly/orchidea/raw/main/charts_2.png" alt="Чертёж"></p>
