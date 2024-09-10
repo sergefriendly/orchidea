@@ -115,3 +115,5 @@ m \frac{d^2 \vec{r} }{dt^2} = \vec{T} + m\vec{g}.
 
 Решая на интервале $\left(0;100\right)$ получим:
 <p align="center"><img src="https://github.com/sergefriendly/orchidea/raw/main/charts_6.png" alt="Чертёж"></p>
+
+Здесь же при решении методом Рунге-Кутта 4-го порядка и выборе временного интервала $\left[0;100\right]$ наблюдается стабильность в решении в отличии от решения методом Эйлера.
